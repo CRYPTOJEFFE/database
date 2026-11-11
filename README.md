@@ -1,5 +1,9 @@
 # Database [![update](https://github.com/iptv-org/database/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/database/actions/workflows/update.yml)
 
+## EL JEFFE edition
+
+See [ELJEFFE.md](ELJEFFE.md) for the expanded resource collection and browser integration. Upstream content is preserved below.
+
 User editable database for TV channels.
 
 ![channels.csv](.readme/preview.png)
